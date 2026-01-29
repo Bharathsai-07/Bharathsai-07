@@ -12,7 +12,7 @@
 <ul>
   <li>🔭 Currently working on <b>MERN Stack Projects</b></li>
   <li>🌱 Learning <b>Data Structures & Core Java</b></li>
-  <li>👨‍💻 Interested in <b>Frontend & Full Stack Development</b></li>
+  <li>👨‍💻 Interested in <b>Full Stack Development</b></li>
   <li>📫 Reach me at <b>bharathsainerella07@gmail.com</b></li>
 </ul>
 
@@ -67,7 +67,7 @@
 
 <h3>Tools & Platforms</h3>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+  <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
